@@ -1,0 +1,13 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+tr>*{
+	border: 1px solid #c6c7cc;
+	padding: 10px 20px;
+}

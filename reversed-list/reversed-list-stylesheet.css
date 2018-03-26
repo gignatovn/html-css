@@ -1,0 +1,10 @@
+#wrapper{
+	color: #95191a;
+	background-color: #dddddd;
+	width : 350px;
+	border : 1px solid #000000;
+}
+
+div>*{
+	justify-content: center;
+}
